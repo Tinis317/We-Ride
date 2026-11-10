@@ -5,8 +5,7 @@
 ![Project Type](https://img.shields.io/badge/Type-Pricing%20Analytics-blue) ![Domain](https://img.shields.io/badge/Domain-Ride%20Hailing-orange) ![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Python-green)
 
 ### 🔗 Live Deck
-[View Full Presentation (WE-RIDE.pptx)](./WE-RIDE.pptx)
-
+[View Live Deck on Google Slides](https://docs.google.com/presentation/d/1753aoLefCoVw3lYZqpkRRn_qV4zNhTOT/edit?usp=drive_link&ouid=106408375730070531057&rtpof=true&sd=true)
 ---
 ### 📌 Business Problem
 We-Ride customers are churning due to high surge pricing, especially on Saturday nights in Delhi. The app tells customers "Surge due to high traffic" - but is that true?
@@ -56,12 +55,13 @@ We-Ride customers are churning due to high surge pricing, especially on Saturday
 - PowerPoint
 
 ### 📁 Files in this Repo
-- `WE-RIDE.pptx`
-- `README.md`
-- `/images`
-- https://docs.google.com/presentation/d/1753aoIefCoVw3lYZqpkRRn_gV4zNhTOT/edit?usp=drive_link&ouid=106408375730070531057&rtpof=true&sd=true
+- `README.md` - Full case study (this file)
+- [View Live Deck on Google Slides](https://docs.google.com/presentation/d/1753aoLefCoVw3lYZqpkRRn_qV4zNhTOT/edit?usp=drive_link&ouid=106408375730070531057&rtpof=true&sd=true)
 
-### 👤 Author
-Samuel Etini Bassey | Junior Data Analyst | Lagos, Nigeria
-- LinkedIn: www.linkedin.com/in/samuel-bassey-327b97233
+## 👤 Author
+
+**Samuel Etini Bassey** | Junior Data Analyst | Lagos, Nigeria
+
+- LinkedIn: [linkedin.com/in/samuel-bassey-327b97233](https://www.linkedin.com/in/samuel-bassey-327b97233)
 - Email: sbassey999@gmail.com
+- Portfolio: https://tinis317.github.io/samuel-bassey-portfolio/
